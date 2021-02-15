@@ -1,0 +1,10 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab01\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
