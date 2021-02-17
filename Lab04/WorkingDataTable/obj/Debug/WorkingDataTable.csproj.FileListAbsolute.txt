@@ -1,0 +1,10 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab04\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
