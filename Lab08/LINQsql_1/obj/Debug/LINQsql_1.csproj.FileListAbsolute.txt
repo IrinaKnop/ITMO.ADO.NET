@@ -1,0 +1,10 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\bin\Debug\LINQsql_1.exe.config
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\bin\Debug\LINQsql_1.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\bin\Debug\LINQsql_1.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.Form1.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.Properties.Resources.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\Lab08\LINQsql_1\obj\Debug\LINQsql_1.pdb
