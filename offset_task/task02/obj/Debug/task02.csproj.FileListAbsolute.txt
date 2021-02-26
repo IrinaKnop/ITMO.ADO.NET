@@ -1,0 +1,11 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\bin\Debug\task02.exe.config
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\bin\Debug\task02.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\bin\Debug\task02.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.Form1.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.Properties.Resources.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\offset_task\task02\obj\Debug\task02.Form2.resources
